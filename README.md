@@ -1,2 +1,1 @@
-# testfazis
-test github
+This is a Go app
